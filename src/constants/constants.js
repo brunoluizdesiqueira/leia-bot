@@ -1,4 +1,4 @@
-export const API_KEY = 'us-west-2:7e9e1657-489b-4317-87f9-18bd5d52c888';
+export const API_KEY = 'XXXXXXX';
 export const BOT_NAME = 'leiabot_dev';
 export const REGION = 'us-west-2';
 export const ALIAS = '$LATEST';
